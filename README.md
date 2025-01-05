@@ -14,5 +14,5 @@ The repository is organized by challenge number. Each challenge has its own dire
 
 To run a TypeScript file using `npx ts-node`, navigate to the directory containing the file and execute:
 ```sh
-npx ts-node 01.ts
+npx ts-node 01-easy-first-gift-repeated.ts
 ```
